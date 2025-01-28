@@ -518,6 +518,7 @@
       "cooked_chicken": "2025-01-27 21:53:11 +0000",
       "rotten_flesh": "2025-01-28 01:52:37 +0000",
       "cooked_mutton": "2025-01-27 21:39:33 +0000",
+      "potato": "2025-01-28 22:36:49 +0000",
       "salmon": "2025-01-25 01:58:47 +0000",
       "cooked_beef": "2025-01-25 02:42:31 +0000",
       "baked_potato": "2025-01-26 03:14:31 +0000",
@@ -2453,6 +2454,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-28 04:06:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-01-28 04:54:10 +0000"
@@ -2462,12 +2469,6 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-01-28 04:54:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-01-28 04:06:50 +0000"
     },
     "done": true
   },
