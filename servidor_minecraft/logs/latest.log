@@ -524,3 +524,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at knot/com.google.gson.Gson.fromJson(Gson.java:982) ~[gson-2.10.1.jar:?]
 	at knot/com.mojang.authlib.minecraft.client.ObjectMapper.readValue(ObjectMapper.java:30) ~[authlib-6.0.55.jar:?]
 	... 10 more
+[04:54:09] [Server thread/INFO]: PIXULAGRANDE[/127.17.176.176:42531] logged in with entity id 14216 at (254.56821524748563, 72.5625, 339.79519578154463)
+[04:54:09] [Server thread/INFO]: PIXULAGRANDE joined the game
+[04:57:47] [Server thread/INFO]: Zapallin57[/127.17.176.176:35173] logged in with entity id 14834 at (290.35383783122734, 65.0, 335.3898271658515)
+[04:57:47] [Server thread/INFO]: Zapallin57 joined the game
+[04:58:08] [Server thread/INFO]: [Zapallin57: Set own game mode to Creative Mode]
+[05:00:50] [Server thread/INFO]: PIXULAGRANDE has made the advancement [Hot Stuff]
