@@ -140,3 +140,4 @@
 [23:14:13] [Server thread/INFO]: [Zapallin57: Set own game mode to Creative Mode]
 [23:14:28] [Server thread/INFO]: [Zapallin57: Set own game mode to Survival Mode]
 [23:14:32] [Server thread/INFO]: [Zapallin57: Gave 7000 experience points to Zapallin57]
+[23:48:31] [Server thread/INFO]: Villager class_1646['Villager'/12074, l='ServerLevel[world]', x=57.37, y=69.94, z=921.05] died, message: 'Villager hit the ground too hard'
