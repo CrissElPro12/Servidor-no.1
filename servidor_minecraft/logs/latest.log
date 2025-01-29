@@ -620,3 +620,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [05:50:54] [Server thread/INFO]: [Zapallin57: Set own game mode to Creative Mode]
 [05:51:10] [Server thread/INFO]: [Zapallin57: Set own game mode to Survival Mode]
 [06:37:47] [Server thread/INFO]: [Zapallin57: Set own game mode to Creative Mode]
+[06:57:49] [Server thread/INFO]: [Zapallin57: Set own game mode to Survival Mode]
+[06:58:25] [Server thread/INFO]: [Zapallin57: Gave 7000 experience points to Zapallin57]
+[06:59:54] [Server thread/INFO]: Zapallin57 was killed
+[06:59:54] [Server thread/INFO]: [Zapallin57: Killed Zapallin57]
+[06:59:59] [Server thread/INFO]: [Zapallin57: Gave 7000 experience points to Zapallin57]
