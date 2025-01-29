@@ -2676,5 +2676,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-29 05:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:tabby": "2025-01-29 05:04:30 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 4082
 }
