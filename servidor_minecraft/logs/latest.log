@@ -531,3 +531,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [04:58:08] [Server thread/INFO]: [Zapallin57: Set own game mode to Creative Mode]
 [05:00:50] [Server thread/INFO]: PIXULAGRANDE has made the advancement [Hot Stuff]
 [05:04:30] [Server thread/INFO]: Zapallin57 has made the advancement [Best Friends Forever]
+[05:16:27] [Server thread/INFO]: [Zapallin57: Set own game mode to Survival Mode]
