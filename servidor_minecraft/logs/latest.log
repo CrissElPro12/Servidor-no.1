@@ -625,3 +625,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [06:59:54] [Server thread/INFO]: Zapallin57 was killed
 [06:59:54] [Server thread/INFO]: [Zapallin57: Killed Zapallin57]
 [06:59:59] [Server thread/INFO]: [Zapallin57: Gave 7000 experience points to Zapallin57]
+[07:35:40] [Server thread/INFO]: Zapallin57 lost connection: Disconnected
+[07:35:40] [Server thread/INFO]: Zapallin57 left the game
+[07:35:51] [Server thread/INFO]: Stopping the server
+[07:35:51] [Server thread/INFO]: Stopping server
+[07:35:51] [Server thread/INFO]: Saving players
+[07:35:51] [Server thread/INFO]: Saving worlds
+[07:35:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:35:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:35:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:35:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:35:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:35:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:35:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
