@@ -13,6 +13,7 @@
       "minecraft:taiga": "2025-01-25 01:48:15 +0000",
       "minecraft:river": "2025-01-25 01:57:24 +0000",
       "minecraft:grove": "2025-01-25 02:22:41 +0000",
+      "minecraft:meadow": "2025-01-29 23:26:28 +0000",
       "minecraft:stony_shore": "2025-01-25 02:14:02 +0000",
       "minecraft:dripstone_caves": "2025-01-27 05:42:13 +0000",
       "minecraft:plains": "2025-01-25 02:13:49 +0000"
@@ -2514,6 +2515,54 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-01-29 05:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-29 23:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-29 23:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-29 23:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-29 23:27:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-29 23:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-29 23:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-29 23:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-29 23:30:05 +0000"
     },
     "done": true
   },

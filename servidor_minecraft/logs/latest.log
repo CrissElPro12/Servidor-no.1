@@ -136,3 +136,7 @@
 [22:58:53] [Server thread/WARN]: handleDisconnection() called twice
 [22:59:00] [Server thread/INFO]: Zapallin57[/127.17.176.176:45861] logged in with entity id 1655 at (268.55549505660963, 64.0, 368.5157980449418)
 [22:59:00] [Server thread/INFO]: Zapallin57 joined the game
+[23:10:07] [Server thread/INFO]: Zapallin57 was slain by Zombie
+[23:14:13] [Server thread/INFO]: [Zapallin57: Set own game mode to Creative Mode]
+[23:14:28] [Server thread/INFO]: [Zapallin57: Set own game mode to Survival Mode]
+[23:14:32] [Server thread/INFO]: [Zapallin57: Gave 7000 experience points to Zapallin57]
