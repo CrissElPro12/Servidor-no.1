@@ -617,3 +617,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	... 10 more
 [05:29:47] [Server thread/INFO]: PIXULAGRANDE lost connection: Disconnected
 [05:29:47] [Server thread/INFO]: PIXULAGRANDE left the game
+[05:50:54] [Server thread/INFO]: [Zapallin57: Set own game mode to Creative Mode]
+[05:51:10] [Server thread/INFO]: [Zapallin57: Set own game mode to Survival Mode]
