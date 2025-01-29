@@ -110,3 +110,6 @@
 [17:15:03] [Server thread/INFO]: Zapallin57[/127.17.176.176:51643] logged in with entity id 17 at (287.8589977243489, 65.0, 341.3819186041242)
 [17:15:03] [Server thread/INFO]: Zapallin57 joined the game
 [17:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:52:43] [Server thread/INFO]: Zapallin57 lost connection: Disconnected
+[17:52:43] [Server thread/INFO]: Zapallin57 left the game
+[17:53:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
