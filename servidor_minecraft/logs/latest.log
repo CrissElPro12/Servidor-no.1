@@ -1,5 +1,5 @@
-[19:34:24] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[19:34:25] [main/INFO]: Loading 49 mods:
+[04:04:58] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[04:04:59] [main/INFO]: Loading 49 mods:
 	- fabric-api 0.114.0+1.21.3
 	   |-- fabric-api-base 0.4.50+119c825640
 	   |-- fabric-api-lookup-api-v1 1.6.81+fd37071f40
@@ -61,76 +61,65 @@
 	   |-- commonnetworking 1.0.17-1.21.3
 	   \-- journeymap-api-fabric 2.0.0-1.21.3-SNAPSHOT
 	- minecraft 1.21.3
-[19:34:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Tiempo-doble/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:34:26] [main/INFO]: Compatibility level set to JAVA_21
-[19:34:26] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:34:26] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:34:28] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[19:34:28] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[19:34:29] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:34:49] [main/INFO]: Initializing ServerSide Packet Registries
-[19:34:49] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:34:57] [main/INFO]: Loaded 1337 recipes
-[19:34:57] [main/INFO]: Loaded 1448 advancements
-[19:34:57] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 11.54 ms
-[19:34:57] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[19:34:57] [Server thread/INFO]: Loading properties
-[19:34:57] [Server thread/INFO]: Default game type: SURVIVAL
-[19:34:57] [Server thread/INFO]: Generating keypair
-[19:34:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:34:57] [Server thread/INFO]: Using epoll channel type
-[19:34:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:34:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:34:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:34:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:34:58] [Server thread/INFO]: Preparing level "world"
-[19:34:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:35:11] [Server thread/INFO]: Time elapsed: 13042 ms
-[19:35:11] [Server thread/INFO]: Done (13.744s)! For help, type "help"
-[19:35:11] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[19:35:12] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@709e65a3 for service interface journeymap.api.services.ClientPlatformService
-[19:35:12] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@3caf6b5a for service interface journeymap.api.services.CommonPlatformService
-[19:36:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:36:29] [Server thread/INFO]: Zapallin57[/127.17.176.176:45639] logged in with entity id 17 at (299.5, 65.5625, 339.5)
-[19:36:29] [Server thread/INFO]: Zapallin57 joined the game
-[19:55:25] [Server thread/INFO]: [Zapallin57: Gave 1 [Diamond Boots] to Zapallin57]
-[20:17:36] [Server thread/INFO]: Zapallin57 lost connection: Disconnected
-[20:17:36] [Server thread/INFO]: Zapallin57 left the game
-[20:18:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:33:02] [Server thread/INFO]: Stopping the server
-[21:33:02] [Server thread/INFO]: Stopping server
-[21:33:02] [Server thread/INFO]: Saving players
-[21:33:02] [Server thread/INFO]: Saving worlds
-[21:33:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:33:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:33:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:33:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:33:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:33:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:33:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:04:59] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Tiempo-doble/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:04:59] [main/INFO]: Compatibility level set to JAVA_21
+[04:05:00] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:05:00] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:05:02] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[04:05:02] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[04:05:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04:05:22] [main/INFO]: Initializing ServerSide Packet Registries
+[04:05:22] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:05:29] [main/INFO]: Loaded 1337 recipes
+[04:05:29] [main/INFO]: Loaded 1448 advancements
+[04:05:30] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 5.245 ms
+[04:05:30] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[04:05:30] [Server thread/INFO]: Loading properties
+[04:05:30] [Server thread/INFO]: Default game type: SURVIVAL
+[04:05:30] [Server thread/INFO]: Generating keypair
+[04:05:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:05:30] [Server thread/INFO]: Using epoll channel type
+[04:05:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:05:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:05:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:05:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:05:31] [Server thread/INFO]: Preparing level "world"
+[04:05:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:05:48] [Server thread/INFO]: Time elapsed: 16437 ms
+[04:05:48] [Server thread/INFO]: Done (17.351s)! For help, type "help"
+[04:05:48] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[04:05:48] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@5b89506d for service interface journeymap.api.services.ClientPlatformService
+[04:05:48] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@6b98e4b4 for service interface journeymap.api.services.CommonPlatformService
